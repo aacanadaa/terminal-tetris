@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>tetrisplus</h1>
+<h1>Tetris+ (tetrisplus)</h1>
 
 <p><strong>A complete Tetris game for your terminal, written in C with ncurses.</strong></p>
 
