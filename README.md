@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20BSD-2C2D72.svg" alt="Platform: Linux, macOS and BSD">
   <img src="https://img.shields.io/badge/packaging-.deb-A80030.svg?logo=debian&logoColor=white" alt="Ships a Debian package">
   <a href="https://snapcraft.io/tetrisplus"><img src="https://img.shields.io/badge/snap-tetrisplus-82BEA0.svg?logo=snapcraft&logoColor=white" alt="Available as a snap"></a>
+  <a href="https://ko-fi.com/suoim"><img src="https://img.shields.io/badge/Ko--fi-Support%20me-ff5e5b?logo=kofi&logoColor=white" alt="Support me on Ko-fi"></a>
 </p>
 
 </div>
